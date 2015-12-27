@@ -4,6 +4,7 @@ module CSDL [system] {
   header "/usr/include/SDL2/SDL_mixer.h"
   header "/usr/include/SDL2/SDL_net.h"
   header "/usr/include/SDL2/SDL_ttf.h"
+  header "/usr/include/SDL2/SDL_syswm.h"
   link "SDL2"
   link "SDL2_gfx"
   link "SDL2_image"
